@@ -1,14 +1,7 @@
-import React from 'react'
-import { Button } from "@/components/ui/button"
-
-const Page = () => {
+const page = () => {
   return (
-    <div>
-      <h1 className='text-2xl underline'>Nitheesh</h1>
-      <Button>Click me</Button>
-    </div>
-    
+    <div>page</div>
   )
 }
 
-export default Page
+export default page
